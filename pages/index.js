@@ -13,6 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Welcome to Lightning CheckIn!</h1>
+        <p>The fastest and easiest way to do check-ins with Planing Center.</p>
       </main>
     </div>
   );
